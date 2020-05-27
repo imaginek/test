@@ -5,6 +5,7 @@
 
 int main()
 {
+    cout << "github";
     std::cout << "Hello World!\n" << "hi,刘柯";
 }
 
